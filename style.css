@@ -1,0 +1,44 @@
+.header {
+    height: 110px;
+    width: 100%;
+    background-image: url(https://phonoteka.org/uploads/posts/2022-01/1642658979_78-phonoteka-org-p-fon-zvezdnoe-nebo-kosmos-88.jpg);
+}
+h1 {
+   font-family: Black Italic;
+    font-size: 32px;
+    color: #fff;
+    position: absolute;
+    left: 37%;
+}
+.meny {
+    font-size: 20px;
+    margin: 10px;
+    color: #fff;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+.men {
+    font-size: 20px;
+   margin: 10px;
+    color: #fff;
+    position: absolute;
+    right: 30px;
+    top: 50px;
+}
+h2 {
+    font-size: 32px;
+    margin: 30px;
+}
+img {
+    width: 48%;
+    height: 400px;
+    margin: 60px;
+}
+li{
+  font-size: 24px; 
+  margin: 20px;
+}
+p {
+    font-size: 24px;
+}
