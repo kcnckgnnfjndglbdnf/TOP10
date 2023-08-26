@@ -42,3 +42,12 @@ li{
 p {
     font-size: 24px;
 }
+.button {
+    color: #fff;
+}
+button {
+    margin: 20px;
+    height: 75px;
+    width: 100px;
+   background-image: url(https://phonoteka.org/uploads/posts/2022-01/1642658979_78-phonoteka-org-p-fon-zvezdnoe-nebo-kosmos-88.jpg);
+}
